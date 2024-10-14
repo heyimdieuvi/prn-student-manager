@@ -1,0 +1,14 @@
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/bin/Debug/net8.0/StudentTester
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/bin/Debug/net8.0/StudentTester.deps.json
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/bin/Debug/net8.0/StudentTester.runtimeconfig.json
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/bin/Debug/net8.0/StudentTester.dll
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/bin/Debug/net8.0/StudentTester.pdb
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/obj/Debug/net8.0/StudentTester.GeneratedMSBuildEditorConfig.editorconfig
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/obj/Debug/net8.0/StudentTester.AssemblyInfoInputs.cache
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/obj/Debug/net8.0/StudentTester.AssemblyInfo.cs
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/obj/Debug/net8.0/StudentTester.csproj.CoreCompileInputs.cache
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/obj/Debug/net8.0/StudentTester.dll
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/obj/Debug/net8.0/refint/StudentTester.dll
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/obj/Debug/net8.0/StudentTester.pdb
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/obj/Debug/net8.0/StudentTester.genruntimeconfig.cache
+/media/dieuvi/New Volume/BE Learning/CSHARP/Session04-Collections/StudentManager/StudentTester/obj/Debug/net8.0/ref/StudentTester.dll
